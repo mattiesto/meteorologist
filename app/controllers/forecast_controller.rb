@@ -1,5 +1,6 @@
 require 'open-uri'
 
+
 class ForecastController < ApplicationController
   def coords_to_weather_form
     # Nothing to do here.
